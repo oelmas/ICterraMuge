@@ -12,6 +12,9 @@
 		<module>../customeclipse.example.feature</module>
 		<module>../customeclipse.example.site</module>
 		<module>../customeclipse.example.ide.feature</module>
+		<module>
+			../../../ICterraMuge/customeclipse.example.muge.prjwizard
+		</module>
 	</modules>
 
 	<properties>
